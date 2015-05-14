@@ -5,7 +5,7 @@
 This is a super stripped down version of underscores with modifications. This theme implements enough to:
 
  - Pass the VIP Scanner tool
- - Work on VIP hosting
+ - Work on the WordPress.com VIP platform
  - Be picked up by WordPress
  - Load a stylesheet
  - Implement a basic 404
@@ -13,7 +13,7 @@ This is a super stripped down version of underscores with modifications. This th
 
 And nothing more.
 
-If you have a static design, replace what needs replacing in `index.php` and make sure `404.php` is presentable, then update style.css to match your new theme name and styling. Remember to replace screenshot.png with something nice
+If you have a static design, replace what needs replacing in `index.php` and make sure `404.php` is presentable, then update style.css to match your new theme name and styling. Remember to replace screenshot.png with something nice.
 
 ## Further Reading
 
