@@ -7,9 +7,9 @@
 	</head>
 	<body <?php body_class(); ?>>
 
-		<p>404</p>
+		<h1>404</h1>
 
-		<?php echo vip_powered_wpcom(); /* required */ ?>
+		<span class="vipfooter"><?php echo vip_powered_wpcom(); /* required */ ?></span>
 		<?php wp_footer(); /* required */ ?>
 	</body>
 </html>
